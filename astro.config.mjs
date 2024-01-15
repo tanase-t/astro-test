@@ -6,5 +6,5 @@ import react from "@astrojs/react";
 export default defineConfig({
   integrations: [react()],
   site: 'https://tanase-t.github.io',
-  base: '/portfolio'
+  base: '/astro-test'
 });
